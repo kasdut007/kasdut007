@@ -1,7 +1,6 @@
 {
-  "result": "uptodate",
   "url": "http://dutafilm.video/",
-  "version":"6.0",
+  "version":"6",
   "attributes": {
     "title": "JSON:API paints my bikeshed!",
     "body": "The shortest article. Ever.",
